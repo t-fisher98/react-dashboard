@@ -7,13 +7,6 @@ const LoginFormStyles = styled.section`
     text-align: center;
     font-size: 2.2rem;
   }
-  .Toastify__toast {
-    background-color: red;
-    color: white;
-  }
-  .Toastify__progress-bar--error {
-    background-color: blue;
-  }
 `;
 
 const FormControl = styled.div`

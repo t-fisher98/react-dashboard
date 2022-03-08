@@ -24,7 +24,7 @@ function AppBar(props) {
           <IconButton>
             <img
               src="https://avatars.dicebear.com/api/initials/Ty.svg?b=%23ff9500&r=50"
-              height="52"
+              height="24"
               alt=""
             />
           </IconButton>

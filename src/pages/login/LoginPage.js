@@ -12,6 +12,7 @@ import { SubmitButton } from 'ui/buttons';
 import { LoginFormStyles, FormControl } from "./styles";
 
 function LoginPage(props) {
+  // useNavigate() is a react-router-dom hook that allows you to navigate to a desired path.
   const navigator = useNavigate()
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
